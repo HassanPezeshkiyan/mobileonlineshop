@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "HlLxOjMtd6QfaLRD6mG86f/GayjFEJHWqnlEnH31uLs=",
+  "Hash": "a/2hhAAo67KgUQWv9QcT1y/yfOV81iTZYokC++ze9jI=",
   "Source": "OnlineMobileShop",
   "BasePath": "_content/OnlineMobileShop",
   "Mode": "Default",
@@ -3502,12 +3502,12 @@
       "OriginalItemSpec": "wwwroot\\pictures\\mobile3.jpg"
     },
     {
-      "Identity": "E:\\Personal\\CSHARP\\OnlineMobileShop\\OnlineMobileShop\\wwwroot\\pictures\\کارنامه فاطمه پزشکیان ارشد 1402.pdf",
+      "Identity": "E:\\Personal\\CSHARP\\OnlineMobileShop\\OnlineMobileShop\\wwwroot\\png\\samsung.png",
       "SourceId": "OnlineMobileShop",
       "SourceType": "Discovered",
       "ContentRoot": "E:\\Personal\\CSHARP\\OnlineMobileShop\\OnlineMobileShop\\wwwroot\\",
       "BasePath": "_content/OnlineMobileShop",
-      "RelativePath": "pictures/کارنامه فاطمه پزشکیان ارشد 1402.pdf",
+      "RelativePath": "png/samsung.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -3516,7 +3516,58 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\pictures\\کارنامه فاطمه پزشکیان ارشد 1402.pdf"
+      "OriginalItemSpec": "wwwroot\\png\\samsung.png"
+    },
+    {
+      "Identity": "E:\\Personal\\CSHARP\\OnlineMobileShop\\OnlineMobileShop\\wwwroot\\png\\samsung-64.png",
+      "SourceId": "OnlineMobileShop",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Personal\\CSHARP\\OnlineMobileShop\\OnlineMobileShop\\wwwroot\\",
+      "BasePath": "_content/OnlineMobileShop",
+      "RelativePath": "png/samsung-64.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\png\\samsung-64.png"
+    },
+    {
+      "Identity": "E:\\Personal\\CSHARP\\OnlineMobileShop\\OnlineMobileShop\\wwwroot\\png\\sony-32.png",
+      "SourceId": "OnlineMobileShop",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Personal\\CSHARP\\OnlineMobileShop\\OnlineMobileShop\\wwwroot\\",
+      "BasePath": "_content/OnlineMobileShop",
+      "RelativePath": "png/sony-32.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\png\\sony-32.png"
+    },
+    {
+      "Identity": "E:\\Personal\\CSHARP\\OnlineMobileShop\\OnlineMobileShop\\wwwroot\\png\\sony-64.png",
+      "SourceId": "OnlineMobileShop",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Personal\\CSHARP\\OnlineMobileShop\\OnlineMobileShop\\wwwroot\\",
+      "BasePath": "_content/OnlineMobileShop",
+      "RelativePath": "png/sony-64.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\png\\sony-64.png"
     }
   ]
 }

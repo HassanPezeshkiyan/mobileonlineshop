@@ -1,4 +1,6 @@
-﻿using System.Collections.Generic;
+﻿using Microsoft.AspNetCore.Http.HttpResults;
+using System.Collections.Generic;
+using System.Runtime.CompilerServices;
 
 namespace OnlineMobileShop.Models
 {
@@ -36,22 +38,26 @@ namespace OnlineMobileShop.Models
             Category category = new Category()
             {
                 Id = 0,
-                Title = "HUAWEI"
+                Title = "HUAWEI",
+                Logo = "https://img.icons8.com/windows/32/huawei-logo.png"
             };
             Category category2 = new Category()
             {
                 Id = 1,
-                Title = "APPLE"
+                Title = "APPLE",
+                Logo = "https://img.icons8.com/pastel-glyph/64/apple--v1.png"
             };
             Category category3 = new Category()
             {
                 Id = 2,
-                Title = "SAMSUNG"
+                Title = "SAMSUNG",
+                Logo = "png/samsung-64.png"
             };
             Category category4 = new Category()
             {
                 Id = 3,
-                Title = "SONY"
+                Title = "SONY",
+                Logo = "png/sony-64.png"
             };
             categories.Add(category);
             categories.Add(category2);

@@ -817,8 +817,20 @@
       "PackagePath": "staticwebassets\\pictures\\mobile3.jpg"
     },
     {
-      "Id": "E:\\Personal\\CSHARP\\OnlineMobileShop\\OnlineMobileShop\\wwwroot\\pictures\\کارنامه فاطمه پزشکیان ارشد 1402.pdf",
-      "PackagePath": "staticwebassets\\pictures\\کارنامه فاطمه پزشکیان ارشد 1402.pdf"
+      "Id": "E:\\Personal\\CSHARP\\OnlineMobileShop\\OnlineMobileShop\\wwwroot\\png\\samsung-64.png",
+      "PackagePath": "staticwebassets\\png\\samsung-64.png"
+    },
+    {
+      "Id": "E:\\Personal\\CSHARP\\OnlineMobileShop\\OnlineMobileShop\\wwwroot\\png\\samsung.png",
+      "PackagePath": "staticwebassets\\png\\samsung.png"
+    },
+    {
+      "Id": "E:\\Personal\\CSHARP\\OnlineMobileShop\\OnlineMobileShop\\wwwroot\\png\\sony-32.png",
+      "PackagePath": "staticwebassets\\png\\sony-32.png"
+    },
+    {
+      "Id": "E:\\Personal\\CSHARP\\OnlineMobileShop\\OnlineMobileShop\\wwwroot\\png\\sony-64.png",
+      "PackagePath": "staticwebassets\\png\\sony-64.png"
     },
     {
       "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.OnlineMobileShop.Microsoft.AspNetCore.StaticWebAssets.props",
